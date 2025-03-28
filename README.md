@@ -18,8 +18,12 @@ Ensure you have the following installed:
 Clone the repository and install dependencies:
 
 \`\`\`bash
-git clone https://github.com/Villageppl/SeismicDeploy.git
+:  git clone https://github.com/Villageppl/SeismicDeploy.git
+  
+
 cd SeismicDeploy
+
+
 npm install ethers fs
 \`\`\`
 
