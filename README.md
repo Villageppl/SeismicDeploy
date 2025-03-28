@@ -25,7 +25,7 @@ cd SeismicDeploy
 
 
 npm install ethers fs
-\`\`\`
+
 
 ## Usage
 
@@ -39,6 +39,8 @@ node deploy.js
 ## Notes
 - The script interacts with the Seismic Testnet at \`https://node-2.seismicdev.net/rpc\`.
 - Ensure you have enough testnet funds for transactions.
+
+theres no know reward for this yet.....mostly for fun, but i feel there mught be something for interactions later.
 
 ## License
 MIT
